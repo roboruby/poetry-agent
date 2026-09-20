@@ -1,3 +1,5 @@
+> **Archived.** Development of poetry-agent continues in the Poetry monorepo at [roboruby/poetry](https://github.com/roboruby/poetry), under [`gems/poetry-agent`](https://github.com/roboruby/poetry/tree/main/gems/poetry-agent). This repository keeps the history and tags up to 0.1.5 and is read-only.
+
 # poetry-agent
 
 The agent-interop gem of the [poetry](https://github.com/roboruby/poetry) component library: every surface through which an agent reaches the component contract, projected from the one registry the other gems build.
